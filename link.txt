@@ -1,0 +1,7 @@
+https://github.com/antoniodiasabc/docker2/blob/main/app.py
+
+https://github.com/arruda/gerenciando-aplicacoes-com-docker-compose/
+
+https://github.com/docker/awesome-compose/tree/master/flask
+
+https://labs.play-with-docker.com/
